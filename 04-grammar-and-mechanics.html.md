@@ -23,10 +23,9 @@ Adhering to certain rules of grammar and mechanics helps us keep our writing cle
 
 If there’s a chance your reader won’t recognize an abbreviation or acronym, spell it out the first time you mention it. Then use the short version for all other references. If the abbreviation isn’t clearly related to the full version, specify in parentheses.
 
-- First use: Network Operations Center
-- Second use: NOC
-- First use: Coordinated Universal Time (UTC)
-- Second use: UTC
+- First use: American Kennel Club
+- Second use: AKC
+
 
 If the abbreviation or acronym is well known, like API or HTML, use it instead (and don’t worry about spelling it out).
 
@@ -54,12 +53,7 @@ When writing out an email address or website URL, use all lowercase.
 - freddie@mailchimp.com
 - mailchimp.com
 
-Don't capitalize random words in the middle of sentences. Here are some words that we never capitalize in a sentence. For more, see the [Word List](/16-word-list.html.md).
-
-- website
-- internet
-- online
-- email
+Don't capitalize random words in the middle of sentences. 
 
 ### Contractions
 
@@ -95,7 +89,7 @@ Write out big numbers in full. Abbreviate them if there are space restraints, as
 
 #### Dates
 
-Generally, spell out the day of the week and the month. Abbreviate only if space is an issue in the app.
+Generally, spell out the day of the week and the month. Abbreviate only if space is an issue.
 
 - Saturday, January 24
 - Sat., Jan. 24
@@ -155,7 +149,7 @@ Use a hyphen between times to indicate a time period. 
 
 - 7 am–10:30 pm
 
-Specify time zones when writing about an event or something else people would need to schedule. Since Mailchimp is in Atlanta, we default to ET.
+Specify time zones when writing about an event or something else people would need to schedule. Since Aster Pet Sciences is in Pennsylvania, we default to ET.
 
 Abbreviate time zones within the continental United States as follows:
 
@@ -289,7 +283,6 @@ When referring generally to a file extension type, use all uppercase without a p
 When referring to a specific file, the filename should be lowercase:
 
 - slowclap.gif
-- MCBenefits.pdf
 - ben-twitter-profile.jpg
 - ilovedonuts.html
 
@@ -303,7 +296,7 @@ For more on writing about gender, see [Writing about people](/03-writing-about-p
 
 When quoting someone in a blog post or other publication, use the present tense.
 
-- “Using Mailchimp has helped our business grow,” says Jamie Smith.
+- “Our dog loves Aster Pet Scienses,” says Jamie Smith.
 
 #### Names and titles
 
@@ -342,21 +335,19 @@ Capitalize the names of websites and web publications. Don’t italicize.
 
 Avoid spelling out URLs, but when you need to, leave off the http://www.
 
-#### Writing about Mailchimp
+#### Writing about Aster Pet Sciences
 
-Our company's legal entity name is "The Rocket Science Group, LLC." Our trade name is "Mailchimp." Use "The Rocket Science Group, LLC" only when writing legal documents or contracts. Otherwise, use "Mailchimp."
+Our company's legal entity name is "Aster Sciences, LLC" Our trade name is "Aster Pet Sciences" Use "Aster Sciences, LLC" only when writing legal documents or contracts. Otherwise, use "Aster Pet Sciences"
 
-Always capitalize the first “M” and lowercase the “c” in Mailchimp.
+In whitepapers or formal documents, after introducing Aster Pet Sciences, you may refer to the companys as APS.
 
-Refer to Mailchimp as “we,” not “it.”
+Refer to Aster Pet Sciences as “we,” not “it.”
 
-Capitalize branded terms, like Mailchimp Presents. We also capitalize pricing plan names (Premium, Standard, Essentials, and Free) to distinguish them from generic use of those adjectives.
+Don’t capitalize descriptive product or feature names, like supplements or services. 
 
-Don’t capitalize descriptive product or feature names, like email or landing pages. 
-
-- templates
-- Mailchimp’s mobile app
-- Essentials plan
+- supplements
+- treats
+- grooming
 
 #### Writing about other companies
 
@@ -372,7 +363,6 @@ Refer to a company or product as “it” (not “they”).
 
 Write in plain English. If you need to use a technical term, briefly define it so everyone can understand.
 
-- Mailchimp's Ops team is constantly scaling our servers to make sure our users have a great experience with our products. One way we do this is with shards, or partitions, that help us better horizontally scale our database infrastructure.
 
 ### Text formatting
 
@@ -381,16 +371,6 @@ Use italics to indicate the title of a long work (like a book, movie, or album) 
 - *Dunston Checks In*
 - Brandon *really* loves *Dunston Checks In*.
 
-Use italics when citing an example of an in-app Mailchimp element, or referencing button and navigation labels in step-by-step instructions:
-
-- When you're all done, click *Send*.
-- The familiar A/B testing variables—*Subject line*, *From name*, and *Send time*—have now been joined by *Content*, and up to 3 combinations of a single variable can now be tested at once.
-
-Don’t use underline formatting, and don’t use any combination of italic, bold, caps, and underline.
-
-Left-align text, never center or right-aligned.
-
-Leave one space between sentences, never 2.
 
 ### Write positively
 
