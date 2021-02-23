@@ -3,14 +3,14 @@ title: Writing About People
 layout: article
 ---
 
-We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
+We write the same way we build apps: with a person-first perspective. Whether you’re writing for an internal or external audience, it's important to write for and about other people in a way that’s compassionate, inclusive, and respectful. Being aware of the impact of your language will help make Aster Pet Sciences a better place to work and a better steward of our values in the world. In this section we'll lay out some guidelines for writing about people with compassion, and share some resources for further learning.
 
-### As part of an audience
+### As part of a community
 
-- Don’t capitalize “audience” unless it’s grammatically necessary.
-- Don’t refer to an audience as “it.” Audiences are made up of real people, so always use “they.”
+- Don’t capitalize “community” unless it’s grammatically necessary.
+- Don’t refer to an audience as “it.” Communities are made up of real people, so always use “they.”
 - This goes for contacts, too. Contacts are real people, never pieces of data.  
-- There’s a feature in our app called “lookalike audiences,” which is a way for our customers to market to people who are similar to their existing contacts. Always use the “lookalike” qualifier when referring to this feature to avoid confusion.
+
 
 
 ### Age
@@ -63,13 +63,13 @@ Use “deaf” as an adjective to describe a person with significant hearing los
 
 Don't use hyphens when referring to someone with dual heritage or nationality. For example, use "Asian American" instead of "Asian-American."
 
-### Medical conditions
+### Medical conditions when writing about service animals
 
 Don’t refer to a person’s medical condition unless it’s relevant to what you’re writing.
 
 If a reference to a person’s medical condition is warranted, use the same rules as writing about people with physical disabilities and emphasize the person first. Don’t call a person with a medical condition a “victim.”
 
-### Mental and cognitive conditions
+### Mental and cognitive conditions when writing about service animals
 
 Don’t refer to a person’s mental or cognitive condition unless it’s relevant to what you’re writing. Never assume that someone has a medical, mental, or cognitive condition.
 
@@ -77,8 +77,8 @@ Don’t describe a person as “mentally ill.” If a reference to a person’s 
 
 ### Race
 
-At Mailchimp, when we write about a culture or ethnicity, we capitalize the name. For example, we capitalize Black as it refers to Americans in the African diaspora while we keep white lowercase since white refers to the color of a person’s skin and not a group of people.
+At Aster Pet Sciences, when we write about a culture or ethnicity, we capitalize the name. For example, we capitalize Black as it refers to Americans in the African diaspora while we keep white lowercase since white refers to the color of a person’s skin and not a group of people.
 
-### Vision
+### Vision when writing about service animals
 
 Use the adjective “blind” to describe a person who is unable to see. Use “low vision” to describe a person with limited vision.
