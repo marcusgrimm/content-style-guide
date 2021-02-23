@@ -76,7 +76,7 @@ If one of the list items is a complete sentence, use proper punctuation and capi
 
 ### Navigation
 
-Use title case for main or global navigation. Use sentence case for subnavigation.
+Use title case for main or global navigation. Use sentence case for subnavigation
 
 Navigation links should be clear and concise.
 
