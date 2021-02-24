@@ -3,7 +3,7 @@ title: TL;DR
 layout: article
 ---
 
-The Mailchimp Content Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
+The Aster Pet Sciences Style Guide goes into depth on many subjects. It may be more information than you need. Here are the most important things to know.
 
 ## Principles
 
@@ -16,7 +16,7 @@ Good content is:
 
 ## Voice and tone
 
-Mailchimp’s voice is:
+Aster Pet Sciences’ voice is:
 
 * Human
 * Familiar
@@ -27,13 +27,14 @@ Our tone changes depending on the situation, but it's generally informal. We hav
 
 Our priorities are to educate our users about our products without patronizing or confusing them, so they can get their work done and get on with their lives.
 
-## Writing about people
+## Writing about dogs
 
-We write and build apps with a person-first perspective. Being aware of the impact of your language will help make Mailchimp a better place to work and a better steward of our values in the world.
+We write and build apps with a person-first perspective. Being aware of the impact of your language will help make Aster Pet Sciences a better place to work and a better steward of our values in the world.
 
 - Don’t reference age or disability unless it’s relevant to what you’re writing.
 - Avoid gendered language and use the singular “they.”
 - When writing about a person, use their preferred pronouns; if you don’t know those, just use their name.
+- Avoid language that indicates a preference of pure breed over mixed breed dogs. All dogs are wonderful!
 
 Related resource: The [Conscious Style Guide](http://consciousstyleguide.com/).
 
